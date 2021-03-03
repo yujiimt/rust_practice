@@ -1,0 +1,13 @@
+/Users/y.imuta/pj/rust_study/db_rust/target/debug/deps/url-0a497894b40a7f6a.rmeta: /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs
+
+/Users/y.imuta/pj/rust_study/db_rust/target/debug/deps/liburl-0a497894b40a7f6a.rlib: /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs
+
+/Users/y.imuta/pj/rust_study/db_rust/target/debug/deps/url-0a497894b40a7f6a.d: /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs
+
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs:

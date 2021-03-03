@@ -1,0 +1,12 @@
+/Users/y.imuta/pj/rust_study/datafusion_test/target/debug/deps/gif-766882e2616e7c47.rmeta: /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/Users/y.imuta/pj/rust_study/datafusion_test/target/debug/deps/libgif-766882e2616e7c47.rlib: /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/Users/y.imuta/pj/rust_study/datafusion_test/target/debug/deps/gif-766882e2616e7c47.d: /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs:

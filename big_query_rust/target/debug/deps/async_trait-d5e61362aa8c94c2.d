@@ -1,0 +1,11 @@
+/Users/y.imuta/pj/rust_study/big_query_rust/target/debug/deps/libasync_trait-d5e61362aa8c94c2.dylib: /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/lib.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/args.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/expand.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/lifetime.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/parse.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/receiver.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/respan.rs
+
+/Users/y.imuta/pj/rust_study/big_query_rust/target/debug/deps/async_trait-d5e61362aa8c94c2.d: /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/lib.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/args.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/expand.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/lifetime.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/parse.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/receiver.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/respan.rs
+
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/lib.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/args.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/expand.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/lifetime.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/parse.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/receiver.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/respan.rs:

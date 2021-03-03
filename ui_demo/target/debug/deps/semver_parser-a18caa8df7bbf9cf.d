@@ -1,0 +1,11 @@
+/Users/y.imuta/pj/rust_study/ui_demo/target/debug/deps/semver_parser-a18caa8df7bbf9cf.rmeta: /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/lib.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/version.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/range.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/common.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/recognize.rs
+
+/Users/y.imuta/pj/rust_study/ui_demo/target/debug/deps/libsemver_parser-a18caa8df7bbf9cf.rlib: /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/lib.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/version.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/range.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/common.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/recognize.rs
+
+/Users/y.imuta/pj/rust_study/ui_demo/target/debug/deps/semver_parser-a18caa8df7bbf9cf.d: /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/lib.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/version.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/range.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/common.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/recognize.rs
+
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/lib.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/version.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/range.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/common.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/recognize.rs:

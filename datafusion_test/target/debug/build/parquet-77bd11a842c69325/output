@@ -1,0 +1,3 @@
+Running: `"git" "rev-parse" "HEAD"`
+cargo:rustc-env=PARQUET_VERSION=1.0.1
+cargo:rustc-env=PARQUET_CREATED_BY=parquet-rs version 1.0.1

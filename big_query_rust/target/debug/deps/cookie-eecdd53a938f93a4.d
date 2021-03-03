@@ -1,0 +1,12 @@
+/Users/y.imuta/pj/rust_study/big_query_rust/target/debug/deps/cookie-eecdd53a938f93a4.rmeta: /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/lib.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/builder.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/parse.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/jar.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/delta.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/draft.rs
+
+/Users/y.imuta/pj/rust_study/big_query_rust/target/debug/deps/libcookie-eecdd53a938f93a4.rlib: /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/lib.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/builder.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/parse.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/jar.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/delta.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/draft.rs
+
+/Users/y.imuta/pj/rust_study/big_query_rust/target/debug/deps/cookie-eecdd53a938f93a4.d: /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/lib.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/builder.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/parse.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/jar.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/delta.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/draft.rs
+
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/lib.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/builder.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/parse.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/jar.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/delta.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.14.3/src/draft.rs:

@@ -1,0 +1,14 @@
+[package]
+name = "big_query_rust"
+version = "0.1.0"
+authors = ["yujiimt <yujiimuta0572@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+base64 = "*"
+bigquery-storage = "0.1.2"
+google-pubsub1 = "*"
+hyper = "^0.10"
+yup-oauth2 = "^1.0"

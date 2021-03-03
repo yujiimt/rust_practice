@@ -1,0 +1,12 @@
+/Users/y.imuta/pj/rust_study/big_query_rust/target/debug/deps/arrayvec-1a2eb6ba941e8301.rmeta: /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/lib.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/maybe_uninit.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/array.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/array_string.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/char.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/errors.rs
+
+/Users/y.imuta/pj/rust_study/big_query_rust/target/debug/deps/libarrayvec-1a2eb6ba941e8301.rlib: /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/lib.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/maybe_uninit.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/array.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/array_string.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/char.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/errors.rs
+
+/Users/y.imuta/pj/rust_study/big_query_rust/target/debug/deps/arrayvec-1a2eb6ba941e8301.d: /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/lib.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/maybe_uninit.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/array.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/array_string.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/char.rs /Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/errors.rs
+
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/lib.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/maybe_uninit.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/array.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/array_string.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/char.rs:
+/Users/y.imuta/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/errors.rs:

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/y.imuta/pj/rust_study/big_query_rust/target/debug/build/typenum-d630f8da22938e33/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/y.imuta/pj/rust_study/big_query_rust/target/debug/build/typenum-d630f8da22938e33/out/op.rs
