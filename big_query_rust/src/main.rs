@@ -3,7 +3,7 @@ use bigquery_storage::{Table, Client};
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Erro>>{
     // 1. load the desired secret (here, a service account key)
-    let sa_key = yup_oauth2::read_service_account_key("dx-imt-0eceefac3745.json")
+    let sa_key = yup_oauth2::read_service_account_key("")
         .await?;
     // 2. create an authenticator
     let auth = yup_oauth2::ServiceAccountAuthenticator::builder(sa_key)
