@@ -1,6 +1,8 @@
-fn main(){
-    let p1 = Box::new(10); //Box<i32>型
-    let p3: *mut i32 = unsafe {std::mem::transmute(p1)};
+// 整数リテラル3, 4, 5は通常i32型へ解釈されるが、
+//型アノテーション（型注釈）によって、u8へと型強制されている
 
+
+
+fn main(){
 
 }
