@@ -1,0 +1,12 @@
+/Users/imutayuji/programming/rust_practice/log-collector/target/debug/deps/base64-1c21e66cd43f1071.rmeta: /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/lib.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/chunked_encoder.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/display.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/tables.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/mod.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/encoder.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/encode.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/decode.rs
+
+/Users/imutayuji/programming/rust_practice/log-collector/target/debug/deps/base64-1c21e66cd43f1071.d: /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/lib.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/chunked_encoder.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/display.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/tables.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/mod.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/encoder.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/encode.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/decode.rs
+
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/lib.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/chunked_encoder.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/display.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/tables.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/mod.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/encoder.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/encode.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/decode.rs:

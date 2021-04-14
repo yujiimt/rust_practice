@@ -1,0 +1,13 @@
+/Users/imutayuji/programming/rust_practice/log-collector/target/debug/deps/net2-c027b2ffb19befca.rmeta: /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/lib.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/tcp.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/udp.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/socket.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/ext.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/utils.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/mod.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/impls.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/unix.rs
+
+/Users/imutayuji/programming/rust_practice/log-collector/target/debug/deps/net2-c027b2ffb19befca.d: /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/lib.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/tcp.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/udp.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/socket.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/ext.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/utils.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/mod.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/impls.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/unix.rs
+
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/lib.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/tcp.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/udp.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/socket.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/ext.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/utils.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/mod.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/impls.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/unix.rs:

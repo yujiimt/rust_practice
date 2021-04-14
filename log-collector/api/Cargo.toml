@@ -1,0 +1,18 @@
+[package]
+name = "api"
+version = "0.1.0"
+authors = ["yujiimt <yujiimuta0572@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = "1"
+serde_derive = "1"
+
+# ある依存について詳細に設定したい場合はサブセクションを書くと設定できる
+# 今回はchronoクレートのserdeフィーチャを有効にしている
+
+[dependencies.chrono]
+features = ["serde"]
+version = "0.4"

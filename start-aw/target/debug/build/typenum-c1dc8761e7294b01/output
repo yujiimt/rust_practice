@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/imutayuji/programming/rust_practice/start-aw/target/debug/build/typenum-c1dc8761e7294b01/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/imutayuji/programming/rust_practice/start-aw/target/debug/build/typenum-c1dc8761e7294b01/out/op.rs
